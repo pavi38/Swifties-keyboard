@@ -1,0 +1,11 @@
+
+{
+    "aps" : {
+        "alert" : {
+            "title" : "Test Nootification",
+            "body" : "Hello World"
+        },
+        "badge": 13
+    },
+    "Simulator Target Bundle": "Swifties.Swifties"
+}
